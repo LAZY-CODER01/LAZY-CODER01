@@ -1,7 +1,7 @@
 ```yaml
 name: AVINASH MAURYA
 located_in: VARANASI
-current_job: Full Stack Developer
+skill: Full Stack Developer
 education:
   [
     "Self-Taught Developer and Designer",
