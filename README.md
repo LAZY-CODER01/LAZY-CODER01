@@ -28,7 +28,7 @@ currently_learning: ["Docker, Kubernetes, and React Native"]
 2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Books", "Art", "Comedy"]
 ```
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazy-coder01&label=Profile%20views&color=0e75b6&style=flat" alt="lazy-coder01" /> </p>
 
