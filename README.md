@@ -3,6 +3,7 @@ name: AVINASH MAURYA
 located_in: VARANASI
 skill: Full Stack Developer
 education:
+//
   [
     "Self-Taught Developer and Designer",
     "Bachelor's of Technology in Computer Science & Engineering",
