@@ -84,7 +84,7 @@ hobbies: ["🎮 Gaming", "🎬 Cinema", "📚 Books", "🎨 Art", "😄 Comedy",
 ## 🛠️ Featured Projects
 
 ### 🤖 AI-Powered Quotation Automation System
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/LAZY-CODER01)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/LAZY-CODER01/quotation_backend_windows)
 
 **Tech Stack:** Python | LLM | OCR | RAG | MotherDuck | OpenPyXL
 
@@ -104,7 +104,7 @@ hobbies: ["🎮 Gaming", "🎬 Cinema", "📚 Books", "🎨 Art", "😄 Comedy",
 ---
 
 ### 📝 Automation-Blog: AI Content Platform
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/LAZY-CODER01)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/LAZY-CODER01/Workflow-Automation)
 
 **Tech Stack:** Next.js | Node.js | TypeScript | PostgreSQL | Redis | Kafka | Prisma | Gemini API
 
