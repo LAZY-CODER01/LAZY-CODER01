@@ -27,7 +27,6 @@ education:
   - degree: "B.Tech in Computer Science & Engineering"
     institution: "Madan Mohan Malaviya University of Technology, Gorakhpur"
     year: "2023-2027"
-    cgpa: "7.98"
     
 experience:
   - position: "Full Stack Developer Intern"
@@ -250,7 +249,7 @@ hobbies: ["🎮 Gaming", "🎬 Cinema", "📚 Books", "🎨 Art", "😄 Comedy",
 ## 🎓 Education
 
 **Madan Mohan Malaviya University of Technology, Gorakhpur**  
-*B.Tech in Computer Science & Engineering* | **CGPA: 7.98** | 2023-2027
+*B.Tech in Computer Science & Engineering* | 2023-2027
 
 **Relevant Coursework:**
 - Data Structures & Algorithms
